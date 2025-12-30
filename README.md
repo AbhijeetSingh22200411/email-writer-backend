@@ -3,7 +3,7 @@
 This is a Spring Boot backend application that generates professional email replies using AI.
 
 ## Features
-- REST API to generate email replies
+- REST API to generate Email replies
 - Prompt-based email generation
 - Clean layered architecture (Controller, Service)
 
